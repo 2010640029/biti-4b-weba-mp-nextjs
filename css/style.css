@@ -42,7 +42,7 @@
   color: #f00;
 }
 body{
-  background-image: url("../public/background.png");
+  background-image: url("/background.png");
   background-repeat: no-reapeat;
   background-size: cover;
 }
